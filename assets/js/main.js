@@ -24,7 +24,7 @@
 			}, 100);
 		});
 
-	// Dropdowns.
+	// About USs.
 		$('#nav > ul').dropotron({
 			mode: 'fade',
 			noOpenerFade: true,
